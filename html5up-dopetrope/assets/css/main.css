@@ -1581,6 +1581,7 @@ input, select, textarea {
 			left: 1.75em;
 			top: 1.75em;
 			margin: -4.5em 0 4.25em -3.5em;
+		
 		}
 
 		.box.post header {
@@ -1601,6 +1602,7 @@ input, select, textarea {
 		.box footer ul.actions {
 			margin-bottom: 0;
 		}
+		
 
 /* Button */
 
@@ -2053,10 +2055,6 @@ input, select, textarea {
 				background-color: #d52349;
 			}
 
-				.icon.featured.alt2:after {
-					
-					
-				}
 
 /* Page Wrapper */
 
@@ -2480,6 +2478,7 @@ input, select, textarea {
 				.box footer ul.actions li:first-child {
 					margin-top: 0;
 				}
+			
 
 		/* Header */
 
