@@ -32,6 +32,11 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+#sticky{
+		position: -webkit-sticky; /* Safari */
+        position: sticky;
+        top: 0;
+}
 
 ol, ul {
 	list-style: none;
@@ -2188,6 +2193,7 @@ input, select, textarea {
 			display: inline-block;
 			padding: 2.5em 5em;
 			border-radius: 5px;
+			
 		}
 
 			#banner header h2 {
